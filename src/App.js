@@ -75,6 +75,8 @@ import Field from './Field';
 					value="Add"
 					type="submit" />
 			</form>
+
+			<footer><a target="_blank" href="https://github.com/arkl8770/to-do">View Source Code</a></footer>
 	  	</div>
 	  );
 	}
